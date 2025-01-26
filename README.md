@@ -3,6 +3,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPravein2206&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-## Hello... <img src="https://raw.githubusercontent.com/Pravein2206/Pravein2206/master/waving.gif" width="65">
+## I'm  Pravein Letchumanan, and I'm currently an undergraduate studying for Bachelor Of Computer Science (Computer Networks And Security) With Honours at [Universiti Teknologi Malaysia](https://www.utm.my) . <img src="https://raw.githubusercontent.com/Pravein2206/Pravein2206/master/waving.gif" width="65">
 
-I am  __Pravein__, and I'm currently an undergraduate studying for Bachelor Of Computer Science (Computer Networks And Security) With Honours at [Universiti Teknologi Malaysia](https://www.utm.my) .
+I am an enthusiastic and motivated student of computer science with a solid background in cutting-edge technologies, programming, and problem-solving. My interest in computer science stems from my desire to learn more about how technology could influence the world and address pressing issues.
