@@ -5,4 +5,4 @@
 
 ## Hello... <img src="https://raw.githubusercontent.com/Pravein2206/Pravein2206/master/waving.gif" width="65">
 
-I am  __Pravein__, and I'm studying for Bachelor Of Computer Science (Computer Networks And Security) With Honours at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __Pravein__, and I'm currently an undergraduate studying for Bachelor Of Computer Science (Computer Networks And Security) With Honours at [Universiti Teknologi Malaysia](https://www.utm.my) .
