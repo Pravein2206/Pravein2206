@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVsN3h2cXQ4YTF4cDZ0YWYzbnQ2c3g3cWl4b3E4aGQ2bXZtM2J1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Gallus
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Pravein
 
 ### 🛡️ Cybersecurity Student | CTF Player | Future Security Researcher
 
@@ -62,8 +60,6 @@ Linux/Bash   ██████████░░░░░░  70%
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-
 </div>
 
 I use CTF platforms and challenges to strengthen my:
@@ -83,9 +79,9 @@ Every challenge improves my mindset in discovering vulnerabilities and understan
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pravein2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravein2206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -95,7 +91,7 @@ Every challenge improves my mindset in discovering vulnerabilities and understan
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravein2206&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -105,7 +101,7 @@ Every challenge improves my mindset in discovering vulnerabilities and understan
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pravein2206/Pravein2206/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -115,7 +111,7 @@ Every challenge improves my mindset in discovering vulnerabilities and understan
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ffaa&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Pravein2206&label=Profile%20Views&color=00ffaa&style=for-the-badge" />
 
 </div>
 
@@ -125,11 +121,11 @@ Every challenge improves my mindset in discovering vulnerabilities and understan
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Pravein2206">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/pravein2206">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
