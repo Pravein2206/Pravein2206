@@ -95,14 +95,6 @@ Every challenge improves my mindset in discovering vulnerabilities and understan
 
 </div>
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Pravein2206/Pravein2206/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 ---
@@ -130,20 +122,5 @@ Every challenge improves my mindset in discovering vulnerabilities and understan
 </a>
 
 </div>
-
----
-
-# 💻 Favorite Quote
-
-```text
-"Attackers constantly evolve —
-Defenders must evolve faster."
-```
-
----
-
-<div align="center">
-
-## ⚡ "Breaking systems to understand how to secure them."
 
 </div>
