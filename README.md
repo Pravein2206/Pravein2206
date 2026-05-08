@@ -75,14 +75,6 @@ Every challenge improves my mindset in discovering vulnerabilities and understan
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pravein2206&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravein2206&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
 </div>
 
 ---
